@@ -1,5 +1,5 @@
 [Version]
-signature="$CHICAGO$"
+signature="$Windows NT$"
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur,
